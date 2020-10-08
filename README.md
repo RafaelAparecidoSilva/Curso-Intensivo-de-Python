@@ -1,2 +1,2 @@
 # Curso Intensivo de Python
- Curso do Livro
+ Conteúdo de todos capítulos referente ao Livro
